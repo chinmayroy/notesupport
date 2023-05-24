@@ -2,63 +2,61 @@
 
 Note Book Support is an Android app designed to help users organize and manage their notes effectively. This app provides a user-friendly interface and various features to enhance the note-taking experience.
 
-# Features
+![App Screenshots](screenshots/screenshot.png)
 
-    Note Management: Create, view, edit, and delete notes easily.
-    Categorize Notes: Organize notes into different categories for better organization.
-    Search: Quickly find specific notes using the search functionality.
-    Reminders: Set reminders for important notes and receive notifications.
-    Offline Support: Access and edit notes even when offline, with automatic synchronization when online.
-    Security: Keep your notes secure with a passcode or biometric authentication.
+## Features
 
-# Installation
+1. **Note Management**: Create, view, edit, and delete notes easily.
+2. **Categorize Notes**: Organize notes into different categories for better organization.
+3. **Search**: Quickly find specific notes using the search functionality.
+4. **Reminders**: Set reminders for important notes and receive notifications.
+5. **Offline Support**: Access and edit notes even when offline, with automatic synchronization when online.
+6. **Security**: Keep your notes secure with a passcode or biometric authentication.
 
-    Clone the repository:
+## Installation
 
-    bash
+1. Clone the repository:
 
-    git clone https://github.com/chinmayroy/notesupport.git
-
-    Open the project in Android Studio.
-
-    Build and run the app on an emulator or a physical device.
+   ```bash
+   git clone https://github.com/chinmayroy/notesupport.git
+   
+2. Open the project in Android Studio.
+3. Build and run the app on an emulator or a physical device.
 
 # Requirements
 
-    Android Studio 4.0 or later.
-    Android SDK 21 or later.
-    Java Development Kit (JDK) 8 or later.
+- Android Studio 4.0 or later.
+- Android SDK 21 or later.
+- Java Development Kit (JDK) 8 or later.
 
 # Usage
-
-    Launch the app on your Android device.
-
-    Create a new account or log in if you already have one.
-
-    Start creating and managing your notes using the intuitive interface.
+- Launch the app on your Android device.
+- Create a new account or log in if you already have one.
+- Start creating and managing your notes using the intuitive interface.
 
 # Contributing
 
-Contributions are welcome! If you want to contribute to NoteBook Support Android App, please follow these steps:
+Contributions are welcome! If you want to contribute to NoteSupport Android App, please follow these steps:
 
-Fork the repository.
+1. Fork the repository.
 
-Create a new branch:
+2. Create a new branch:
 
     git checkout -b my-new-branch
 
-Make your changes and commit them:
+3. Make your changes and commit them:
 
-git commit -m 'Add some feature'
+    git commit -m 'Add some feature'
 
-Push to the branch:
+4. Push to the branch:
 
     git push origin my-new-branch
 
-Open a pull request, describing the changes you've made.
+5. Open a pull request, describing the changes you've made.
 
 Please ensure that your code follows the project's coding conventions and that you have tested it thoroughly.
-License
+
+# License
 
 This project is licensed under the MIT License.
 
