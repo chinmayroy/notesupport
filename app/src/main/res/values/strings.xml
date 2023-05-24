@@ -1,12 +1,18 @@
 <resources>
     <string name="app_name">NoteSupport</string>
+    <string name="action_daily_note">Daily Note</string>
+    <string name="action_weekly_note">Weekly Note</string>
+    <string name="action_monthly_note">Monthly Note</string>
+    <string name="action_yearly_note">Yearly Note</string>
     <string name="action_settings">Settings</string>
+
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
     <string name="second_fragment_label">Second Fragment</string>
     <string name="next">Next</string>
     <string name="previous">Previous</string>
 
+    <!--Content Area-->
     <string name="lorem_ipsum">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
         volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus

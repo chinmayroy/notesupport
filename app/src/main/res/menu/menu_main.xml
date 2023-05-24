@@ -3,8 +3,29 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:context="com.example.notesupport.MainActivity">
     <item
+        android:id="@+id/action_daily_note"
+        android:orderInCategory="100"
+        android:title="@string/action_daily_note"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_weekly_note"
+        android:orderInCategory="100"
+        android:title="@string/action_weekly_note"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_monthly_note"
+        android:orderInCategory="100"
+        android:title="@string/action_monthly_note"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_yearly_note"
+        android:orderInCategory="100"
+        android:title="@string/action_yearly_note"
+        app:showAsAction="never" />
+    <item
         android:id="@+id/action_settings"
         android:orderInCategory="100"
         android:title="@string/action_settings"
         app:showAsAction="never" />
+
 </menu>
