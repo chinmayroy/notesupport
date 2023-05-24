@@ -42,15 +42,18 @@ Contributions are welcome! If you want to contribute to NoteSupport Android App,
 
 2. Create a new branch:
 
-  git checkout -b my-new-branch
+   ```bash
+    git checkout -b my-new-branch
 
 3. Make your changes and commit them:
 
-  git commit -m 'Add some feature'
+   ```bash
+    git commit -m 'Add some feature'
 
 4. Push to the branch:
 
-  git push origin my-new-branch
+   ```bash
+    git push origin my-new-branch
 
 5. Open a pull request, describing the changes you've made.
 
