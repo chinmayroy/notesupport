@@ -2,6 +2,8 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     tools:context="com.example.notesupport.MainActivity">
+    <!--Author: Chinmay Roy
+        Website: https://chinmayroy.github.io-->
     <item
         android:id="@+id/action_daily_note"
         android:orderInCategory="100"
@@ -27,5 +29,7 @@
         android:orderInCategory="100"
         android:title="@string/action_settings"
         app:showAsAction="never" />
+<!--    Author: Chinmay Roy
+        Website: https://chinmayroy.github.io -->
 
 </menu>

@@ -5,13 +5,15 @@
     <string name="action_monthly_note">Monthly Note</string>
     <string name="action_yearly_note">Yearly Note</string>
     <string name="action_settings">Settings</string>
-
+    <!--Author: Chinmay Roy
+        Website: https://chinmayroy.github.io-->
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
     <string name="second_fragment_label">Second Fragment</string>
     <string name="next">Next</string>
     <string name="previous">Previous</string>
-
+    <!--Author: Chinmay Roy
+        Website: https://chinmayroy.github.io-->
     <!--Content Area-->
     <string name="lorem_ipsum">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
@@ -27,4 +29,6 @@
         molestie nibh. Phasellus at commodo eros, non aliquet metus. Sed maximus nisl nec dolor
         bibendum, vel congue leo egestas.
     </string>
+    <!--Author: Chinmay Roy
+    Website: https://chinmayroy.github.io-->
 </resources>
